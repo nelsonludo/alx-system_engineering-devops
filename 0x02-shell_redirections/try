@@ -1,7 +1,0 @@
-total 20
--rwxr--r-- 1 root root 32 Dec  5 12:59 0-hello_world
--rwxr--r-- 1 root root 28 Dec  5 13:12 1-confused_smiley
--rwxr--r-- 1 root root 28 Dec  5 13:15 2-hellofile
--rwxr--r-- 1 root root 40 Dec  5 13:31 3-twofiles
--rw-r--r-- 1 root root 17 Dec  5 12:48 README.md
--rw-r--r-- 1 root root  0 Dec  5 13:34 try
